@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @schrann
+# 👋 Hi, I’m Saravanan
 Welcome to my corner of the data universe! I'm an aspiring data scientist on a quest to uncover hidden gems in data and transform insights into action. Let's decode the stories that numbers tell and make an impact together!
 
 
