@@ -23,11 +23,6 @@ Welcome to my corner of the data universe! I'm an aspiring data scientist on a q
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/saravanangokul) 
 or email me at [your-saravanan.off2017@gmail.com](mailto:saravanan.off2017@gmail.com).
 
-## 😄 Pronouns: 
-He/Him
-
-## ⚡ Fun fact: 
-I can turn coffee into code and data into decisions—just call me your data-driven barista! ☕️📈
 
 <!---
 schrann/schrann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
