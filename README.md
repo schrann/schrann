@@ -1,5 +1,5 @@
 # Hi, I’m Saravanan 👋  
-I’m a results-driven data professional with expertise in data science and analytics, passionate about leveraging data to solve complex problems and drive impactful decisions. With a solid foundation in Python, SQL, machine learning, and data visualization, I am continually exploring new technologies and techniques to innovate and improve.  
+- I’m a results-driven data professional with expertise in data science and analytics, passionate about leveraging data to solve complex problems and drive impactful decisions. With a solid foundation in Python, -- SQL, machine learning, and data visualization, I am continually exploring new technologies and techniques to innovate and improve.  
 ---
 
 ## 🚀 About Me  '
