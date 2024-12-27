@@ -1,5 +1,6 @@
 # Hi, I’m Saravanan 👋  
-- I’m a results-driven data professional with expertise in data science and analytics, passionate about leveraging data to solve complex problems and drive impactful decisions. With a solid foundation in Python, -- SQL, machine learning, and data visualization, I am continually exploring new technologies and techniques to innovate and improve.  
+- I’m a results-driven data professional with expertise in data science and analytics, passionate about leveraging data to solve complex problems and drive impactful decisions. With a solid foundation in Python, -- SQL, machine learning, and data visualization, I am continually exploring new technologies and techniques to innovate and improve.
+  
 ---
 
 ## 🚀 About Me  '
@@ -8,7 +9,8 @@ I specialize in:
 - **Machine Learning**: Applying classification, regression, clustering, and NLP techniques to solve business problems
 - **Statistical Modeling**: Designing models and conducting analyses using Python and statistical methods 
 - **Big Data & Cloud Computing**: Proficient in AWS (S3, EC2, RDS, SageMaker) and large-scale data management  
-- **ETL & Data Pipelines**: Experienced in automating workflows with AWS, FiveTran, and web scraping tools  
+- **ETL & Data Pipelines**: Experienced in automating workflows with AWS, FiveTran, and web scraping tools
+  
 ---
 
 ## Currently Learning  
