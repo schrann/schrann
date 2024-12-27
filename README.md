@@ -28,12 +28,18 @@ I’m excited to collaborate on:
 - **Research in AI & ML**: Exploring innovative applications of AI  
 
 ---
+## Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saravanangokul)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/schrann)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:saravanan.g.official@gmail.com)
 
-## 📬 Connect With Me  
-- **LinkedIn**: [linkedin.com/in/saravanangokul](https://www.linkedin.com/in/saravanangokul)  
-- **GitHub**: [github.com/schrann](https://github.com/schrann)  
-- **Email**: [saravanan.g.official@gmail.com](mailto:saravanan.g.official@gmail.com)  
+## Languages and Tools:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
----
-
-### 💡 Let’s transform data into actionable insights and innovative solutions!
