@@ -1,6 +1,5 @@
 # Hi, I’m Saravanan 👋  
 I’m a results-driven data professional with expertise in data science and analytics, passionate about leveraging data to solve complex problems and drive impactful decisions. With a solid foundation in Python, SQL, machine learning, and data visualization, I am continually exploring new technologies and techniques to innovate and improve.  
-
 ---
 
 ## 🚀 About Me  '
@@ -10,23 +9,14 @@ I specialize in:
 - **Statistical Modeling**: Designing models and conducting analyses using Python and statistical methods 
 - **Big Data & Cloud Computing**: Proficient in AWS (S3, EC2, RDS, SageMaker) and large-scale data management  
 - **ETL & Data Pipelines**: Experienced in automating workflows with AWS, FiveTran, and web scraping tools  
-
 ---
 
 ## Currently Learning  
 I am continuously developing my skills in:  
 - Advanced machine learning frameworks like TensorFlow  
 - Deep learning for NLP and computer vision tasks  
-- Enhancing data pipeline efficiency with cloud platforms like AWS and GCP  
-
----
-
-## 🤝 Let’s Collaborate  
-I’m excited to collaborate on:  
-- **Data-Driven Projects**: Transforming raw data into strategic solutions  
-- **Open Source Contributions**: Building tools and resources for the data community  
-- **Research in AI & ML**: Exploring innovative applications of AI  
-
+- Enhancing data pipeline efficiency with cloud platforms like AWS and GCP
+  
 ---
 ## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saravanangokul)
@@ -34,6 +24,7 @@ I’m excited to collaborate on:
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/schrann)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/schran)
 
+---
 ## Languages and Tools:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
